@@ -1,0 +1,15 @@
+---
+title: "Chen Li"
+---
+
+## MS Candidate, Columbia University Mailman School of Public Health
+
+<img src="images/IMG_135850.jpg" style="width:75%">
+
+
+###Welcome to my personal site! I graduated from Peking University in 2017 with BS in pharmaceutical science and MS in pharmaceutical analysis. Currently I'm studying biostatistics at Mailman school of public health, Columbia University.
+
+###To know me better, please see my [Resume](https://github.com/chenlisite/chenli/raw/master/resume%20cl.pdf).
+
+
+
