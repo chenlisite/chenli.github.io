@@ -13,8 +13,8 @@ title: "Projects"
 • Used ensemble tree-based methods(bagging, boosting, random forest) to build prediction models and identify important variables in prediction
 
 ##Data Visualization on Leading Causes of Death
-• Used ggplot2, tidyverse, Plotly to visualize and summarize mortality rate among regions through 10 years
+• Used ggplot2, tidyverse, Plotly to visualize and summarize mortality rate among regions through 10 years([Report](https://fionalav.github.io/p8105_final_project/))
 
-• Developed [Flexdashboard](https://wp2241.github.io/final-project-flexdashboard/) and [R Shiny app](https://fionalav.shinyapps.io/Final_prject_shiny/) to create dynamic visualization of public health data
+• Developed [Flexdashboard and R Shiny app](https://wp2241.github.io/final-project-flexdashboard/) to create dynamic visualization of public health data
 
 
