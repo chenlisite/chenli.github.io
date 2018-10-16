@@ -2,24 +2,19 @@
 title: "Projects"
 ---
 
-<img src="images/wordcloud.png" style="width:75%">
+<img src="images/IMG_135850.jpg" style="width:75%">
+
+##Predictive Modeling for Happiness Score
+
+• Applied statistical learning methods(ridge regression, lasso, PCR, PLSR, KNN, SVM) to build prediction models for happiness scores using information from 9 variables
+
+• Used resampling methods to compare the distribution of prediction errors of regression models
+
+• Used ensemble tree-based methods(bagging, boosting, random forest) to build prediction models and identify important variables in prediction
+
+##Data Visualization on Leading Causes of Death
+• Used ggplot2, tidyverse, Plotly to visualize and summarize mortality rate among regions through 10 years
+
+• Developed [Flexdashboard](https://wp2241.github.io/final-project-flexdashboard/) and [R Shiny app](https://fionalav.shinyapps.io/Final_prject_shiny/) to create dynamic visualization of public health data
 
 
-##Data Wrangling
-
-- Individual
-
-
-• Data management and descriptive statistics.
-
-• Exploratory data analysis by comparisons and visualization.
-
-• Write an R markdown report on the data analysis process and results.
-
-##Data Visualization
-
-- Group Project
-
-• Use Github to collaboratively conduct exploratory data analysis(visualizations, summaries).
-
-• Create a webpage and a screencast that present the project products.
